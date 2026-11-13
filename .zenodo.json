@@ -1,7 +1,7 @@
 {
-  "title": "Planck Window onto Parallel Universes: paper and analysis code",
+  "title": "Planck Window onto Parallel Universes: analysis code and results",
   "upload_type": "software",
-  "description": "Paper and analysis code for version 3 of Preprints.org 202104.0350. The code measures, on the Planck 2018 temperature maps, which bubble-collision discs and cosmic textures the sky still allows: a targeted fit at the Cold Spot, a blind full-sky matched-filter search calibrated with Gaussian simulations, detection efficiency from injections, and the observable window as a function of angular size. No imprint is detected.",
+  "description": "Analysis code and numerical results for the paper Planck Window onto Parallel Universes (version 3 of Preprints.org 202104.0350). The code measures, on the Planck 2018 temperature maps, which bubble-collision discs and cosmic textures the sky still allows: a targeted fit at the Cold Spot, a blind full-sky matched-filter search calibrated with Gaussian simulations, detection efficiency from injections, and the observable window as a function of angular size. No imprint is detected.",
   "creators": [
     {
       "name": "Bhattacharjee, Deep",

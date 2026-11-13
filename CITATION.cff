@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "Planck Window onto Parallel Universes: paper and analysis code"
+title: "Planck Window onto Parallel Universes: analysis code and results"
 license: MIT
 authors:
   - family-names: "Bhattacharjee"

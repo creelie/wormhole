@@ -25,4 +25,4 @@ jobs:
           TAG: ${{ inputs.tag }}
           TITLE: ${{ inputs.title }}
           TARGET: ${{ inputs.target }}
-        run: gh release create "$TAG" --target "$TARGET" --title "$TITLE" --notes "Paper and analysis code for Planck Window onto Parallel Universes (v3 of Preprints.org 202104.0350)."
+        run: gh release create "$TAG" --target "$TARGET" --title "$TITLE" --notes "Analysis code and results for Planck Window onto Parallel Universes (v3 of Preprints.org 202104.0350)."
