@@ -1,8 +1,6 @@
 # Planck Window onto Parallel Universes
 
-Paper and code for version 3 of Preprints.org 202104.0350 (v1 and v2 appeared as *The Gateway to Parallel Universe & Connected Physics*).
-
-Paper: [`paper/PlanckWindowParallelUniverses.pdf`](paper/PlanckWindowParallelUniverses.pdf)
+Analysis code and results for version 3 of Preprints.org 202104.0350 (v1 and v2 appeared as *The Gateway to Parallel Universe & Connected Physics*).
 
 DOI: [10.5281/zenodo.24190776](https://doi.org/10.5281/zenodo.24190776)
 
