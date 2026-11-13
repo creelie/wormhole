@@ -4,6 +4,8 @@ Paper and code for version 3 of Preprints.org 202104.0350 (v1 and v2 appeared as
 
 Paper: [`paper/PlanckWindowParallelUniverses.pdf`](paper/PlanckWindowParallelUniverses.pdf)
 
+DOI: [10.5281/zenodo.24190776](https://doi.org/10.5281/zenodo.24190776)
+
 The analysis measures, on the Planck 2018 temperature maps, which bubble-collision discs and cosmic textures the sky still allows. No imprint is detected. The Cold Spot lies 13 per cent below the detection edge.
 
 ## Code
