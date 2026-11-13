@@ -1,0 +1,72 @@
+{
+  "title": "Planck Window onto Parallel Universes: paper and analysis code",
+  "upload_type": "software",
+  "description": "Paper and analysis code for version 3 of Preprints.org 202104.0350. The code measures, on the Planck 2018 temperature maps, which bubble-collision discs and cosmic textures the sky still allows: a targeted fit at the Cold Spot, a blind full-sky matched-filter search calibrated with Gaussian simulations, detection efficiency from injections, and the observable window as a function of angular size. No imprint is detected.",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "affiliation": "Electro-Gravitational Space Propulsion Laboratory (EGSPL), India",
+      "orcid": "0000-0003-0466-750X"
+    },
+    {
+      "name": "Frederick, Onwuka",
+      "affiliation": "Ekiti State University, Ado-Ekiti, Nigeria"
+    },
+    {
+      "name": "Sadhu, Riddhima",
+      "affiliation": "Birla Institute of Technology (BIT) Mesra, Ranchi, India"
+    },
+    {
+      "name": "Bhattacharjee, Susmita",
+      "affiliation": "Kolkata, India"
+    },
+    {
+      "name": "Bhattacharya, Shounak",
+      "affiliation": "Asian College of Teachers, Kolkata, India"
+    },
+    {
+      "name": "Thakur, Soumendra Nath",
+      "affiliation": "Tagore's Electronic Lab, Kolkata, India"
+    },
+    {
+      "name": "Samal, Priyanka",
+      "affiliation": "Independent Researcher, India",
+      "orcid": "0000-0002-2343-9169"
+    },
+    {
+      "name": "Nandi, Pallab",
+      "affiliation": "India"
+    },
+    {
+      "name": "Bhattacharjee, Tarun",
+      "affiliation": "Independent Researcher, India"
+    },
+    {
+      "name": "Singha Roy, Sanjeevan",
+      "affiliation": "Birla Institute of Technology (BIT) Mesra, India",
+      "orcid": "0000-0002-6148-1421"
+    },
+    {
+      "name": "Ghora, Ranjan",
+      "affiliation": "Independent Researcher, Uttar Pradesh, India"
+    },
+    {
+      "name": "Patra, Ranjan",
+      "affiliation": "Independent Researcher, Odisha, India"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "parallel universe",
+    "Cold Spot",
+    "cosmic microwave background"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.20944/preprints202104.0350.v2",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}

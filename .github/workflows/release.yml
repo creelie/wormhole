@@ -1,0 +1,28 @@
+name: release
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag
+        required: true
+      title:
+        description: Release title
+        required: true
+      target:
+        description: Commit or branch to tag
+        required: false
+        default: main
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ inputs.tag }}
+          TITLE: ${{ inputs.title }}
+          TARGET: ${{ inputs.target }}
+        run: gh release create "$TAG" --target "$TARGET" --title "$TITLE" --notes "Paper and analysis code for Planck Window onto Parallel Universes (v3 of Preprints.org 202104.0350)."
